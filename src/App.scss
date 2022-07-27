@@ -1,0 +1,15 @@
+$bg-color: #ffecb8;
+body {
+  background: $bg-color;
+  canvas{
+    display: contents;
+    position: absolute;
+  }
+  .note{
+    display: block;
+    margin:80px auto;
+  }
+}
+
+
+
